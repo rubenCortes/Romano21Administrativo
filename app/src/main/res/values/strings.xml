@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Romano21 Administrativo</string>
+    <string name="title_activity_datos_vendedor">Datos de vendedor</string>
+    <string name="inicio">Arranque</string>
+    <string name="optCarga">Carga automatica</string>
+    <string name="optAgregar">Agregar</string>
+    <string name="optBuscar">Buscar</string>
+    <string name="opcBDV">Borrar datos vendedor</string>
+    <string name="opc2">Opción 2</string>
+
+    <string name="htNombre">Nombre de vendedor</string>
+</resources>
